@@ -1,5 +1,5 @@
-token = "text"
-admin_id = 777777777
+token = "6860274379:AAHdvP4ehHq_eckmE5DRTiE00JOrlrkgAeY"
+admin_id = 6937143524
 
 file_1 = open("edit_qiwi_money_number.txt", "r")
 qiwi_number = file_1.read()
